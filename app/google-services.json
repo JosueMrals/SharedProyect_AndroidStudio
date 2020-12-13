@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123165050232",
+    "project_id": "loginfirebaseone-8ca52",
+    "storage_bucket": "loginfirebaseone-8ca52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123165050232:android:e6c03c1337033e7779b48d",
+        "android_client_info": {
+          "package_name": "com.jous.bookregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123165050232-ep641feveh9qau4mivesvcn2i9mti8tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX6OKUDPe1QKwth7YM4Qmm1g2EylK10Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123165050232-ep641feveh9qau4mivesvcn2i9mti8tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
